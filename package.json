@@ -50,7 +50,7 @@
     "nixt": "~0.3.0"
   },
   "scripts": {
-    "test": "mocha --reporter spec -t 5000"
+    "test": "mocha --reporter spec -t 10000 -s 2000"
   },
   "license": "MIT",
   "preferGlobal": true,
